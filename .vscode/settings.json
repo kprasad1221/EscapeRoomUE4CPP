@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"D:/UnrealCourses/GameDev/BuildingEscape/BuildingEscape/.vscode": true,
+		"D:/UnrealCourses/GameDev/BuildingEscape/BuildingEscape/Content": true,
+		"D:/UnrealCourses/GameDev/BuildingEscape/BuildingEscape/Intermediate": true,
+		"D:/UnrealCourses/GameDev/BuildingEscape/BuildingEscape/Saved": true
+	}
+}
